@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "email": "iko@email.com",
+      "firstname": "ikram",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "email": "user2@yy.fr",
+      "firstname": "user7777",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "email": "sara@email.com",
+      "firstname": "wael",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "email": "karim@email",
+      "firstname": "karim11",
+      "gender": "male",
+      "id": 5
+    }
+  ],
+  "register": [
+    {
+      "firstName": "dd",
+      "lastName": "kaka",
+      "email": "haha@gmail.com",
+      "password": "John0908",
+      "copassword": "Jane0908",
+      "id": 13
+    },
+    {
+      "firstName": "dd",
+      "lastName": "kaka",
+      "email": "john@gmail.com",
+      "password": "John0908",
+      "copassword": "John0908",
+      "id": 14
+    }
+  ],
+  "login": [
+    {
+      "email": "john@gmail.com",
+      "password": "John0908",
+      "id": 1
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "John0908",
+      "id": 2
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "John0908",
+      "id": 3
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "John0908",
+      "id": 4
+    }
+  ]
+}
